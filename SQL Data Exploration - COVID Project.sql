@@ -1,3 +1,10 @@
+/*
+
+Covid Project - SQL Data Exploration 
+Skills used: Joins, CTE's, Temp Tables, Aggregate Functions, Windows Functions, Creating Views, Converting Data Types, and Math.
+
+*/
+
 
 SELECT *
 FROM Project1..CovidDeaths
