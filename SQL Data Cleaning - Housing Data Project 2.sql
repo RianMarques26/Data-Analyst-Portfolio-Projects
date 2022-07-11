@@ -1,4 +1,11 @@
-/* CLEANING DATA IN SQL QUERIES */
+/* 
+
+SQL DATA CLEANING PROJECT
+Skills used: Join, CTEs, Convert, Substring, CharIndex, Parsename, Replace, Case statements, and Partition By. 
+
+*/
+
+
 
 SELECT *
 FROM Project3.dbo.NashvilleHousing
@@ -159,3 +166,4 @@ FROM Project3.dbo.NashvilleHousing
 
 ALTER TABLE Project3.dbo.NashvilleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
+
